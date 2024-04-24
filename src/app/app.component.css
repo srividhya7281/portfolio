@@ -1,0 +1,22 @@
+.navbar{
+          background-color: black;
+          box-shadow: inset;
+}
+.navbar img{
+          
+          border-radius: 40px;
+}
+.navbar-brand{
+          color: white;
+          
+}
+.navbar-nav a{
+      color: white;
+      cursor: pointer;
+      
+}
+.navbar-nav a:hover{
+          color: red;
+          cursor: pointer;
+          
+    }

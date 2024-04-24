@@ -1,0 +1,18 @@
+.skills {
+          text-align: right;
+          color: white;
+}
+ p{
+          color: blue;
+          text-decoration: underline;
+          justify-content: center;
+          text-align: center;
+ }       
+.html {width: 90%; background-color: #04AA6D;}
+.css {width: 80%; background-color: #2196F3;}
+.bootstrap {width: 70%; background-color: #3e9424;}
+.js {width: 65%; background-color: #f44336;}
+.angular {width: 65%; background-color: #808080;}
+.nodejs {width: 65%; background-color: #cf2186;}
+.expressjs {width: 60%; background-color: #db8181;}
+.mongodb {width: 65%; background-color: #0e5172;}
