@@ -10,8 +10,12 @@ div h3{
           color: blue;
           font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
           font-weight: bold;
+          margin-top: 0px;
+          word-spacing: 2px;
 }
+
 .container{
           color: blue;
           text-align: left;
+          margin-top: 0px;
 }
