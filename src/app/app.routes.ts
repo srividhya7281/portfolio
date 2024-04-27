@@ -7,7 +7,7 @@ import { SkillsComponent } from './pages/skills/skills.component';
 import { VideosComponent } from './pages/videos/videos.component';
 
 export const routes: Routes = [
-          {path:'home',redirectTo:'home',pathMatch:'full'},
+      
           {path:'home',component:HomeComponent},
           {path: 'about', component:AboutComponent},
           {path:'contact', component:ContactComponent},
