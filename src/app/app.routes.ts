@@ -7,12 +7,6 @@ import { SkillsComponent } from './pages/skills/skills.component';
 import { VideosComponent } from './pages/videos/videos.component';
 
 export const routes: Routes = [
-      
-          {path:'home',component:HomeComponent},
-          {path: 'about', component:AboutComponent},
-          {path:'contact', component:ContactComponent},
-          {path:'education', component:EducationComponent},
-          {path:'skills', component:SkillsComponent},
-          {path:'education', component:EducationComponent},
-          {path:'videos', component:VideosComponent}
+          { path: '', redirectTo: '/home', pathMatch: 'full' },
+          { path: 'home', component: HomeComponent },
 ];

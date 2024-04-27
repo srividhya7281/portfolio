@@ -10,6 +10,9 @@
           color: white;
           
 }
+.navbar-brand:hover{
+  color: #FFF;
+}
 .navbar-nav a{
       color: white;
       cursor: pointer;

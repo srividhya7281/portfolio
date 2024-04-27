@@ -1,0 +1,16 @@
+h5{
+          margin-top: 3px;
+          padding-top: 0px;
+          color: brown;
+          text-transform: uppercase;
+          text-align: center;
+          text-decoration: underline;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          font-size: 40px;
+          word-spacing: 3px; 
+}
+h1{
+          width: 600px;
+          font-size: 25px;
+          padding: 3px;
+}

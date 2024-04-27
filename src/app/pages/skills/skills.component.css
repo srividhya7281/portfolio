@@ -2,6 +2,16 @@
           text-align: right;
           color: white;
 }
+h5{
+          padding-top: 5px;
+          color: brown;
+          text-transform: uppercase;
+          text-align: center;
+          text-decoration: underline;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          font-size: 50px;
+          word-spacing: 3px;
+}
  p{
           color: blue;
           text-decoration: underline;
